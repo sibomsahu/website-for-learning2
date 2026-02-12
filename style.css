@@ -173,17 +173,15 @@ body {
     position: absolute;
     z-index: 9;
     background-color: rgb(229, 156, 186);
-
-
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 #page2 .elem .dets p {
-    
-    align-items: center;
-    justify-content: center;
     font-family: futura;
     color: #000;
     font-size: 1.3vw;
-    
 }
 
 #page3 {
@@ -354,4 +352,5 @@ body {
 
 
 }
+
 
