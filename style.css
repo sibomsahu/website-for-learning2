@@ -177,7 +177,7 @@ body {
 
 }
 #page2 .elem .dets p {
-    display: flex;
+    
     align-items: center;
     justify-content: center;
     font-family: futura;
@@ -354,3 +354,4 @@ body {
 
 
 }
+
