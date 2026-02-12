@@ -176,6 +176,15 @@ body {
 
 
 }
+#page2 .elem .dets p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: futura;
+    color: #000;
+    font-size: 1.3vw;
+    
+}
 
 #page3 {
     min-height: 120vh;
@@ -342,5 +351,6 @@ body {
     .child img {
         height: 100%;
     }
+
 
 }
